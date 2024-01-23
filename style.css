@@ -1,0 +1,23 @@
+*{ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+h1{
+    color: blue;
+    background-color: aquamarine;
+    font-size: 250%;
+    font-style: bold;
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    color: blueviolet;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 25px;
+
+}
+.color {
+    color: rgb(235, 133, 8);
+background: #dbdb2b;
+}
+.p2 {
+    color: rgb(7, 83, 21);
+background: #5fbd85;
+}
